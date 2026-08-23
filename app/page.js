@@ -4,7 +4,7 @@ import { createClient } from '@supabase/supabase-js'
 
 // Reemplaza con TUS claves
 const supabaseUrl = 'https://pjwgghktbtjidubqicml.supabase.co'
-const supabaseKey = 'AQUI_PEGA_TU_PUBLISHABLE_KEY_COMPLETA'
+const supabaseKey = 'sb_publishable_tn7eBYVm9Qw8gE0kCqGndw_wlG1T8W8'
 
 const supabase = createClient(supabaseUrl, supabaseKey)
 
