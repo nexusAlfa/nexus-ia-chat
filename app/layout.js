@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: 'Nexus IA Chat - Inteligencia Artificial',
   description: 'Sistema avanzado de IA con reportes automáticos',
